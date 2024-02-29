@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body {
+    text-align: center;
+    padding: 13%;
+    background: no-repeat;
+    background: url(https://i.pinimg.com/564x/26/b6/63/26b6638342f275cd294a4bf8f98816c9.jpg);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+
+
+
+}
+
+form {
+    margin-top: 20px;
+}
+
+label,
+input,
+button {
+    margin-bottom: 10px
+}
+
+
+p {
+    margin-top: 20px;
+    color: whitesmoke;
+    font-size: medium;
+}
